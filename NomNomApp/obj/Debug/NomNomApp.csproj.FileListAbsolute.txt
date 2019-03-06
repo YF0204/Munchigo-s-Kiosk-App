@@ -1,0 +1,14 @@
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\bin\Debug\NomNomApp.exe.config
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\bin\Debug\NomNomApp.exe
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\bin\Debug\NomNomApp.pdb
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.csprojAssemblyReference.cache
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.Form1.resources
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.Properties.Resources.resources
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.csproj.GenerateResource.cache
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.csproj.CoreCompileInputs.cache
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.exe
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.pdb
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\bin\Debug\ClassLibrary.dll
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\bin\Debug\ClassLibrary.pdb
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.CustomerDB.resources
+C:\Users\yas_0\OneDrive\My Documents\NomNomApp\NomNomApp\NomNomApp\obj\Debug\NomNomApp.csproj.CopyComplete
